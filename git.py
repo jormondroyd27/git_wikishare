@@ -1,0 +1,1 @@
+print("Welcome to the demo for how to use the git add, git commit, and git push commands")
